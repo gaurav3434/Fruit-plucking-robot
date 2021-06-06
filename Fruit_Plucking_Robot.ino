@@ -1,4 +1,4 @@
-///////////////////////////////////// This code makes robot to approach tree //////////////////////  
+///////////////////////////////////// This code makes robot approach tree and start plucking visible orange fruitd  //////////////////////  
 #include <ESP32Servo.h> 
 Servo myservo_base;  
 Servo myservo_mid;  
